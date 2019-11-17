@@ -1,0 +1,11 @@
+abbyylib:
+  ### replace with 'https://cloud-eu.ocrsdk.com' to enable secure connection
+  ### replace with 'https://cloud-westus.ocrsdk.com' if your application is created in US location
+  abbyyServerUrl: 'http://cloud-eu.ocrsdk.com'
+  abbyyApplicationId: ''
+  abbyyPassword: ''
+
+management:
+  endpoint:
+    health:
+      show-details: always
